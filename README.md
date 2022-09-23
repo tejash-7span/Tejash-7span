@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tejash-7span
+- 👋 Hi, I’m @Tejash Patel
 - 👀 I’m interested in Angular Development.
 - 💞️ I’m looking to collaborate on https://www.linkedin.com/in/tejash-patel-871257164/
 - 📫 Reach me at tejash@7span.com
